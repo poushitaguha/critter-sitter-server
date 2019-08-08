@@ -2,6 +2,12 @@
 
 This project was created as a back-end api for the critter sitter app.
 
+# Team Members
+
+Melanie Maddix
+Nikita Jiandani
+Poushita Guha
+
 ## Project Setup
 
 Fork and clone this repository
